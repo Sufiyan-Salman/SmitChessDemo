@@ -1,0 +1,17 @@
+.lightGreen{
+    background-color: lightgreen;
+    
+}
+.darkGreen{
+   
+    background-color: rgb(4, 119, 4);
+}
+table{
+
+    margin: auto;
+}
+td{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
